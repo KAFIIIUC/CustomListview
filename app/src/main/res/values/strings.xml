@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomListview</string>
+
+    <string-array name="country_name">
+        <item>Bangladesh</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+    </string-array>
+
+</resources>
